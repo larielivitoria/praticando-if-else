@@ -18,3 +18,8 @@ if (notaFinal < 5)
 {
     Console.WriteLine("Você tirou D");
 }
+
+if (notaFinal < 4)
+{
+    Console.WriteLine("Você tirou F");
+}
